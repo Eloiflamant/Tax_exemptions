@@ -65,7 +65,6 @@ There is a cap on certain exemptions with a choice :
 The exemptions last until the end of the eighth calendar year since the 2017 Finance Act (fifth year for the previous period). An employee can therefore benefit from them for 9 years if he takes up his duties on January 1st of the year. The plan ends automatically if the employee leaves the company before the end of the term but not if he changes functions. 
 
 
-
 ## HQ and logistics center employees
 
 The terms and conditions for the exemption of HQ and logistics center employees are provided for in the [Bulletin officiel des impôts](https://bofip.impots.gouv.fr/bofip/5665-PGP.html/identifiant=BOI-RSA-GEO-50-20170621). 
@@ -83,11 +82,19 @@ Conditions:
 
 - and the headquarters or logistics center must opt to subject these two allowances to a tax calculated at the standard corporate tax rate and related contributions in lieu of income tax on behalf of the employee.
 
+The employee may also benefit from the reimbursement of his professional expenses in the same manner as impatriates, as provided for in Article 81 of the CGI.
+
+## Employees and managers of International Chamber of Commerce
+
+Employees and managers called from abroad to take up employment with the International Chamber of Commerce in France after 2011 are not subject to income tax on the salaries and wages paid to them in this capacity for five years, provided they have not been tax domiciled in France for the last five years.
+
+They cannot benefit from article 155B of the French General Tax Code. 
+
 # Belgium 
 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
 
-I'm writing this tutorial going from the top down. And, this is how it will be printed. So, notice the second post is second in the list. If you want your most recent post to be at the top, then make a new post starting at the top. If you want the oldest first, do, then keep adding to the bottom
+[Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr)
 
 # Adding R stuff
 
