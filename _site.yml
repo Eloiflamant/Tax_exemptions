@@ -1,10 +1,10 @@
 name: "Riffle"
 navbar:
-  title: "Testtuto"
+  title: "UE Tax Observatory"
   left:
     - text: "Home"
       href: index.html
-    - text: "Journal"
+    - text: "Foreign workers"
       href: Journal.html
     - text: "Links"
       href: Links.html
