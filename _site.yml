@@ -1,6 +1,6 @@
 name: "Riffle"
 navbar:
-  title: "Riffle"
+  title: "Testtuto"
   left:
     - text: "Home"
       href: index.html
