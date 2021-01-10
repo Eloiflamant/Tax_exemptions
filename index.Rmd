@@ -17,27 +17,22 @@ output: html_document
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Test intro**
+# **Review of tax exemption measures in European Union countries
+**
 
-This is a template example for lab journaling. Students in Matt Crump's Human Cognition and Performance Lab will use this template to learn R, and other things. Students can replace this text with more fun things. People not in my lab can use this too.
+The purpose of this review is to take stock of the tax exemptions proposed by European countries in their current tax legislation. It follows the [review](http://www.oecd.org/fr/ctp/taxation-and-employment-9789264120808-en.htm) developed by the OECD in 2011. 
 
-## How to use
+A difference has been made between the exemptions set up specifically to attract skilled workers and those aimed at bringing in the wealthiest taxpayers, in order to benefit from their tax resources and their level of consumption. 
 
-1. fork the repo for this website and follow instructions on read me to get set up. [https://github.com/CrumpLab/LabJournalWebsite](https://github.com/CrumpLab/LabJournalWebsite)
-
-2. Blog/journal what you are doing in R, by editing the Journal.Rmd. See the [Journal page](https://crumplab.github.io/LabJournalWebsite/Journal.html) for an example of what to do to get started learning R.
-
-3. See the [links page](https://crumplab.github.io/LabJournalWebsite/Links.html) for lots of helpful links on learning R.
-
-4. Change everything to make it your own.
-
+Tax measures that are advantageous in nature but that do not discriminate against a foreign population were not mentioned. However, it should be remembered that a favourable tax system remains an important reason for transferring one's tax residence in Europe. 
 
 </div>
 <div class="col-sm-6">
 
-### [Crump Lab: Human Cognition and Performance](https://crumplab.github.io)
-
 <a href = "https://crumplab.github.io">
-![](images/logo.png)
+![](https://www.ifrap.org/sites/default/files/styles/visuel_700x372/public/articles/image_logo/ir.jpg?itok=MxlirMuI)<br/>
+
+![](https://i.la-croix.com/729x486/smart/2019/05/26/1201024698/drapeau-europeen-flotte-devant-batiment-Parlement-europeen-Strasbourg_1.jpg)
+
 </a>
 </div>

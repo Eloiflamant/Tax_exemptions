@@ -94,7 +94,30 @@ They cannot benefit from article 155B of the French General Tax Code.
 
 2018 | 7 | 23 Last compiled: `r Sys.Date()`
 
-[Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr)
+The special Belgian tax regime is governed by the [Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr). It applies to executives of foreign nationality, with positions requiring specific skills and responsibilities. In addition, they must be in one of the following three cases:
+
+- Being temporarily seconded by foreign companies
+- Being temporarily seconded by a large international group
+- Being recruited by a Belgian company, subsidiary of a foreign company or member of an international group
+- Being a foreign director holding functions in this type of company
+- Being a non-managerial worker but specialized in a field where recruitment in Belgium is difficult.
+- Being a researcher or a scientist
+
+The temporary nature of the activity must be proven, in particular by :
+
+- the stay of the spouse or children abroad;
+- the provision of a dwelling abroad;
+- the fact that the children continue to be educated abroad;
+- possession of real or personal property abroad;
+- the existence of a life insurance policy outside Canada;
+- a continued participation in a group insurance contract or other savings or pension plan outside Canada;
+- the insertion of a "diplomatic clause" in the lease agreement.
+
+Foreign executives residing for tax purposes in Belgium can deduct from their taxable income :
+
+* expenses reimbursable by the employer and which constitute additional expenses related to the installation in Belgium, including :
+    * non-repetitive expenses and charges resulting from the installation in Belgium
+    * repetitive expenses and charges: tax equalization, cost of living variance, etc.
 
 # Adding R stuff
 

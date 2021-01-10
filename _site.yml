@@ -2,10 +2,10 @@ name: "Riffle"
 navbar:
   title: "UE Tax Observatory"
   left:
-    - text: "Home"
+    - text: "General presentation"
       href: index.html
     - text: "Foreign workers"
       href: Journal.html
-    - text: "Links"
+    - text: "Rich taxpayers"
       href: Links.html
 output_dir: "docs"
