@@ -1,0 +1,642 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Fiscal exemptions for high-skilled foreign workers</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/bootstrap.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/jqueryui-1.11.4/jquery-ui.min.js"></script>
+<link href="site_libs/tocify-1.9.1/jquery.tocify.css" rel="stylesheet" />
+<script src="site_libs/tocify-1.9.1/jquery.tocify.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 51px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h2 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h3 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h4 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h5 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.section h6 {
+  padding-top: 56px;
+  margin-top: -56px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+<style type="text/css">
+
+#TOC {
+  margin: 25px 0px 20px 0px;
+}
+@media (max-width: 768px) {
+#TOC {
+  position: relative;
+  width: 100%;
+}
+}
+
+@media print {
+.toc-content {
+  /* see https://github.com/w3c/csswg-drafts/issues/4434 */
+  float: right;
+}
+}
+
+.toc-content {
+  padding-left: 30px;
+  padding-right: 40px;
+}
+
+div.main-container {
+  max-width: 1200px;
+}
+
+div.tocify {
+  width: 20%;
+  max-width: 260px;
+  max-height: 85%;
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+  div.tocify {
+    width: 25%;
+  }
+}
+
+@media (max-width: 767px) {
+  div.tocify {
+    width: 100%;
+    max-width: none;
+  }
+}
+
+.tocify ul, .tocify li {
+  line-height: 20px;
+}
+
+.tocify-subheader .tocify-item {
+  font-size: 0.90em;
+}
+
+.tocify .list-group-item {
+  border-radius: 0px;
+}
+
+
+</style>
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+<!-- setup 3col/9col grid for toc_float and main content  -->
+<div class="row-fluid">
+<div class="col-xs-12 col-sm-4 col-md-3">
+<div id="TOC" class="tocify">
+</div>
+</div>
+
+<div class="toc-content col-xs-12 col-sm-8 col-md-9">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">UE Tax Observatory</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">General presentation</a>
+</li>
+<li>
+  <a href="Journal.html">Foreign workers</a>
+</li>
+<li>
+  <a href="Taxpayers.html">Rich Taxpayers</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Fiscal exemptions for high-skilled foreign workers</h1>
+
+</div>
+
+
+<p>Several tax exemptions have been set up in order to attract high-skilled workers. These exemptions are often temporary measures, subject to income levels and eligibility requirements. Specific jobs are sometimes targeted, especially knowledge-based activities (profesors, researchers…).</p>
+<p>There has been a clear acceleration of this type of measurement in recent years. Countries that have been rather reluctant to implement them so far (France, for example) have been forced to do so. <br> <br></p>
+<div id="cyprus" class="section level1">
+<h1><strong>Cyprus</strong></h1>
+<div id="overseas-pensions" class="section level2">
+<h2>Overseas pensions</h2>
+<p>The regime of overseas pensions is described by the <a href="https://www.mof.gov.cy/mof/tax/taxdep.nsf/0/32026fc71b1f41dec2258560002f97d3?OpenDocument&amp;ExpandSection=3%2C1%2C2%2C4">Ministry of Finances</a>.</p>
+<div id="conditions" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>General conditions on tax residency.</p>
+</div>
+<div id="exemptions" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>Overseas pensions are exempt from tax up to €3.420 and taxed at 5% thereafter.</p>
+</div>
+<div id="duration" class="section level3">
+<h3><em>Duration</em></h3>
+<p>Regime is available during ten years.</p>
+</div>
+</div>
+</div>
+<div id="greece" class="section level1">
+<h1><strong>Greece</strong> <br></h1>
+<div id="lump-sum-tax" class="section level2">
+<h2>Lump-sum tax</h2>
+<div id="conditions-1" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>The condition to benefit from it:</p>
+<ul>
+<li>The individual was not a Greek tax resident for the seven out of eight years</li>
+<li>make an investment of at least 500,000 euros in the Greek economy</li>
+</ul>
+</div>
+<div id="exemptions-1" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:</p>
+<ul>
+<li>possibility to pay a lump-sum income tax of 100,000 euros (+20,000 per family member)</li>
+<li>foreign-source income is not subject to reporting</li>
+</ul>
+</div>
+<div id="duration-1" class="section level3">
+<h3><em>Duration</em></h3>
+<p>One can benefit from this scheme for 15 years.</p>
+</div>
+</div>
+<div id="foreign-pensioners" class="section level2">
+<h2>Foreign pensioners</h2>
+<p>A draft of new legislation on foreign taxpayers has been submitted to the public through the public consultation on the draft law <a href="https://www.taxheaven.gr/news/49732/neo-nomosxedio-se-dhmosia-diaboyleysh-me-diataxeis-gia-thn-paroxh-forologikwn-kinhtrwn-kai-stoxeymenwn-forologikwn-apallagwn-kai-gia-thn-exwdikastikh-epilysh-twn-ekkremwn-forologikwn-diaforwn">“Tax interventions to strengthen the Greek development process in the Greek legislation of (EU) Directives (EU) 2017/1852, (EU) 2018/822, (EU) 2016/1164, (EU) 2018/1910 and (EU) 2019/475 and other provisions”</a>.</p>
+<div id="conditions-2" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>The condition to benefit from it are:</p>
+<ul>
+<li>receive foreign pension income</li>
+<li>not have been a resident in 5 of the last 6 years prior to establishing residence</li>
+<li>come from a country that has a tax treaty in this field with Greece</li>
+</ul>
+</div>
+<div id="exemptions-2" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>The person then benefits from a lump-sum tax of 7% on pension income of a foreign nature, income that can no longer be taxed. In particular, this exempts the taxpayer from the special solidarity contribution on this income.</p>
+</div>
+</div>
+<div id="golden-visa" class="section level2">
+<h2>Golden visa</h2>
+<p>The golden visa regime is an explicit regime of the Greek legislation provided for in <a href="https://www.taxheaven.gr/law/4251/2014">Article 20 of Law 4251/2014</a>: Other reasons for issuing a residence permit.</p>
+<div id="conditions-3" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>In order to be eligible for the golden visa program, you should make a sufficient investment in Greek territory or economy. This investment can be :</p>
+<ul>
+<li>An investment in real estate property with a minimum value of EUR 250,000, plus the applicable taxes</li>
+<li>A 10-year lease agreement for hotel accommodation or furnished tourist residences in tourist accommodation complexes</li>
+<li>A 10-year time-sharing agreement for hotel accommodation</li>
+<li>A capital contribution with a minimum value of EUR 400,000 to a company that has its registered office or establishment in Greece</li>
+<li>A capital contribution with a minimum value of EUR 400,000 to a real estate investment company in Greece</li>
+<li>A capital contribution with a minimum value of EUR 400,000 to a closed-end investment company</li>
+<li>purchase some bonds or shares for an amount of EUR 400,000 at some conditions</li>
+</ul>
+</div>
+<div id="exemptions-3" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>The main advantage obtained is the issuance of a residence permit giving, among other things, access to free movement within the Schengen area.</p>
+</div>
+<div id="duration-2" class="section level3">
+<h3><em>Duration</em></h3>
+<p>One can benefit of the golden visa for 5 years renewable</p>
+</div>
+</div>
+</div>
+<div id="italy" class="section level1">
+<h1><strong>Italy</strong> <br></h1>
+<div id="rich-taxpayers" class="section level2">
+<h2>Rich taxpayers</h2>
+<div id="conditions-4" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>The condition to benefit from it is to have resided elsewhere for 9 of the last 10 years.</p>
+</div>
+<div id="exemptions-4" class="section level3">
+<h3><em>Exemptions</em></h3>
+<ul>
+<li>The possibility is given to the foreign individual to benefit from a flat rate on his income of 100,000 euros regardless of the amount of his income (+25000 euros per member of the family)</li>
+<li>Remittance of foreign income in Italy without paying additional tax</li>
+<li>Exemption from tax monitoring obligations</li>
+</ul>
+</div>
+<div id="duration-3" class="section level3">
+<h3><em>Duration</em></h3>
+<p>One can benefit from this scheme for 15 years.</p>
+</div>
+</div>
+<div id="foreign-pensioners-1" class="section level2">
+<h2>Foreign pensioners</h2>
+<p>Italy has very recently adopted an attractive tax system for foreign pensioners under article 24-ter of the <a href="https://www.altalex.com/documents/codici-altalex/2014/12/10/tuir-testo-unico-delle-imposte-sui-redditi">Testo Unico delle Imposte sui Redditi 2020</a></p>
+<div id="conditions-5" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>Conditions to be met are:</p>
+<ul>
+<li>to settle in a municipality of less than 20,000 inhabitants in one of the southern regions (Sicily, Calabria, Sardinia, Campania, Basilicata, Abruzzo, Molise and Puglia).</li>
+<li>Have not been a resident for at least the last 5 years.</li>
+<li>come from an EU member country.</li>
+</ul>
+</div>
+<div id="exemptions-5" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>This provision makes it possible, in particular, not to be taxed on income from foreign sources at the standard rate but to pay only a flat-rate tax of 7%.</p>
+<p>Note: the scheme in question is only beneficial if there is no bilateral tax treaty providing for the taxation of pensions in the country of origin.</p>
+</div>
+<div id="duration-4" class="section level3">
+<h3>Duration</h3>
+<p>One can benefit from this scheme for 6 years.</p>
+</div>
+</div>
+</div>
+<div id="portugal" class="section level1">
+<h1><strong>Portugal</strong></h1>
+<p>The system for affluent taxpayers has recently been reformed. The <a href="https://dre.pt/application/conteudo/130893436">Lei do EO of March 2020</a> amended the <a href="https://dre.pt/application/conteudo/490420">decree law of 2009</a> in a slightly less favourable direction for non-usual residents.</p>
+<div id="conditions-6" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>In order to benefit from the regime applicable to individuals who are not habitually resident, a person must :</p>
+<ul>
+<li>become a resident, which implies:
+<ul>
+<li>to spend at least 183 days in Portugal</li>
+<li>to spend less than 183 days but to own a substantial property</li>
+</ul></li>
+<li>not having been a resident for the past five years</li>
+</ul>
+</div>
+<div id="exemptions-6" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:</p>
+<ul>
+<li><p>Remuneration derived from high value-added activities is subject to taxation at a single rate of 20%. The list of these activities is determined by the <a href="https://dre.pt/home/-/dre/460194/details/maximized">decree of 2010</a>. It includes in particular management positions, teaching activities, skilled workers…</p></li>
+<li><p>Most income from foreign sources is tax-exempt for 10 years.</p></li>
+<li><p>Pensions for non-usual residents, hitherto untaxed, cease to enjoy full exemption but are taxed at the rate of 10%.</p></li>
+</ul>
+</div>
+</div>
+<div id="switzerland" class="section level1">
+<h1><strong>Switzerland</strong> <br></h1>
+<p>Taxation on an expenditure basis is provided for in Article 14 of the <a href="https://www.admin.ch/opc/fr/classified-compilation/19900329/202101010000/642.11.pdf">Federal Direct Tax Act</a>.</p>
+<div id="conditions-7" class="section level3">
+<h3><em>Conditions</em></h3>
+<p>The conditions to be able to subscribe to this plan are as follows :ù</p>
+<ul>
+<li>not to have Swiss nationality</li>
+<li>be subject to tax for the first time or after 10 years of absence</li>
+<li>not engage in any gainful activity in Switzerland</li>
+</ul>
+</div>
+<div id="exemptions-7" class="section level3">
+<h3><em>Exemptions</em></h3>
+<p>If the above conditions are met, the taxpayer may be taxed according to his or her expenditure. On the other hand, it is necessary that the amount of the tax is higher than the higher of the following amounts:</p>
+<ul>
+<li>400,000 francs</li>
+<li>7 times the annual rent or rental value for heads of household or 3 times the annual boarding rate for others</li>
+<li>the sum of Swiss income from real estate and movable property, copyrights or patents exploited in Switzerland, pensions and annuities from Swiss sources or income from foreign sources requiring special tax relief.</li>
+</ul>
+<p>Note: the system of taxation by expenditure is not applied in all cantons and is tending to disappear more and more.</p>
+</div>
+</div>
+
+
+
+</div>
+</div>
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+<script>
+$(document).ready(function ()  {
+
+    // move toc-ignore selectors from section div to header
+    $('div.section.toc-ignore')
+        .removeClass('toc-ignore')
+        .children('h1,h2,h3,h4,h5').addClass('toc-ignore');
+
+    // establish options
+    var options = {
+      selectors: "h1",
+      theme: "bootstrap3",
+      context: '.toc-content',
+      hashGenerator: function (text) {
+        return text.replace(/[.\\/?&!#<>]/g, '').replace(/\s/g, '_');
+      },
+      ignoreSelector: ".toc-ignore",
+      scrollTo: 0
+    };
+    options.showAndHide = true;
+    options.smoothScroll = true;
+
+    // tocify
+    var toc = $("#TOC").tocify(options).data("toc-tocify");
+});
+</script>
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

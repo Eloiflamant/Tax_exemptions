@@ -6,6 +6,6 @@ navbar:
       href: index.html
     - text: "Foreign workers"
       href: Journal.html
-    - text: "Rich taxpayers"
-      href: Links.html
+    - text: "Rich Taxpayers"
+      href: Taxpayers.html
 output_dir: "docs"

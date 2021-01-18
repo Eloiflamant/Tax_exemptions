@@ -16,17 +16,74 @@ knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 
 Several tax exemptions have been set up in order to attract high-skilled workers. These exemptions are often temporary measures, subject to income levels and eligibility requirements. Specific jobs are sometimes targeted, especially knowledge-based activities (profesors, researchers...). 
 
-There has been a clear acceleration of this type of measurement in recent years. Countries that have been rather reluctant to implement them so far (France, for example) have been forced to do so. 
+There has been a clear acceleration of this type of measurement in recent years. Countries that have been rather reluctant to implement them so far (France, for example) have been forced to do so.
+<br>
+<br>
 
-# Austria <br>
+# **Austria**
 
-# Belgium 
+The [federal law of September 20, 2016](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2016_II_261/BGBLA_2016_II_261.html) provides special exemptions for researchers and academics, artists and athletes. 
+<br>
+
+### *Conditions*
+
+**Scientists**
+
+For scientific activities, the conditions to be fulfilled are :
+- the activity is scientific or mainly scientific
+- this activity is of public interest for Austria
+- the realization of this public interest would be more difficult without this recruitment
+- the high qualification of the individual is proven 
+
+Or :
+
+- the individual is a teacher
+- the individual comes to carry out research work in a university or research institute
+
+**Artists**
+
+For artists, it is necessary to :
+
+- the activity carried out must be artistic
+- that this activity is of public interest to Austria
+- the realization of this public interest would be more difficult without this recruitment
+- the individual is an artist of exceptional importance
+
+**Sports** 
+
+For athletes, it is necessary that :
+
+- the athlete is a high level athlete
+- The promotion of sports activity is largely in the public interest.
+- the individual is an artist of exceptional importance
+- The athlete appears officially as Austria's representative at international competitions.
+- Sports are promoted immediately 
+<br>
+<br>
+
+### *Exemptions* 
+
+Continuation of foreign tax burden on foreign exemption (at least 15%). 
+<br>
+<br>
+
+### *Duration*
+
+The immigration allowance is granted for five years from the date of immigration. 
+<br>
+<br>
+<br> 
+
+# **Belgium**
+
+The special Belgian tax regime is governed by the [Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr).
+<br>
 
 ## <span style="color:blue"> Exemptions </span>
 
-### Eligibility conditions
+### *Eligibility conditions*
 
-The special Belgian tax regime is governed by the [Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr). It applies to executives of foreign nationality, with positions requiring specific skills and responsibilities. In addition, they must be in one of the following three cases:
+It applies to executives of foreign nationality, with positions requiring specific skills and responsibilities. In addition, they must be in one of the following three cases:
 
 - Being temporarily seconded by foreign companies
 - Being temporarily seconded by a large international group
@@ -44,8 +101,10 @@ The temporary nature of the activity must be proven, in particular by :
 - the existence of a life insurance policy outside Canada;
 - a continued participation in a group insurance contract or other savings or pension plan outside Canada;
 - the insertion of a "diplomatic clause" in the lease agreement.
+<br>
+<br>
 
-### Tax exemptions
+### *Tax exemptions*
 
 Foreign executives residing for tax purposes in Belgium can deduct from their taxable income :
 
@@ -56,6 +115,8 @@ Foreign executives residing for tax purposes in Belgium can deduct from their ta
 * remuneration relating to activities carried out abroad: the executive is supposed to be remunerated in the same way in Belgium and abroad. The calculation of the remuneration earned in Belgium is therefore based on the pro rata of the days worked on Belgian territory.
 
 In case of travel, the day of departure is served in Belgium but not the day of return.
+<br>
+<br>
 
 ## <span style="color:blue"> Researchers status </span>
 
@@ -65,16 +126,40 @@ A discount of 80% of the professional withholding tax is granted
 assistant and post-doctoral researchers.
 - Companies that pay remuneration to researchers under agreements with universities
 - Companies that meet the definition of "Young Innovative Company" and that grant remuneration to scientific personnel within this company.
+<br>
+<br>
 
-# Cyprus <br>
+# **Cyprus** <br>
 
-# Denmark <br>
+# **Denmark** <br>
 
-# France <br>
+The tax exemption schemes are detailed on the website of the [Danish tax authorities](https://skat.dk/skat.aspx?oid=2244911). 
+
+### *Conditions*
+
+The conditions to be met to take advantage of this legislation are:
+
+- the employee has a valid residence and work permit
+- the employee may not have been subject to full tax liability in Denmark or liable to limited tax liability in Denmark within the last 10 years prior to the employment.
+- the employee may not have been directly or indirectly involved in the management of the business
+- in 2021, the average monthly salary must be at least DKK 69,600
+- if the employee is a researcher :  the qualifications of the researcher must be approved by a public research institution or the Independent Research Fund Denmark and the researcher must engage in research.
+
+### *Exemptions*
+
+Flat-tax at 32.84\% rate on salary, bonuses, company car, free phone and health care insurances (divided between a 27% flat-tax rate and a 8% AM-tax).
+
+### *Duration*
+
+One can benefit from this scheme for 7 years. 
+<br>
+<br>
+
+# **France** <br>
 
 ## <span style="color:blue"> The regime of impatriate workers </span> <br>
 
-### Exemptions <br>
+### *Exemptions* <br>
 
 The impatriate regime provides for income tax exemptions for persons domiciled for tax purposes outside France during the 5 calendar years preceding their employment in a company established in France (intra-group mobility or external recruitment). Exemptions are provided for in [Article 155B of the CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037985788/)
 
@@ -103,14 +188,14 @@ In addition, the employee can also deduct social security contributions paid abr
 - Paid into professional supplementary pension schemes (8% of annual remuneration up to 8 times the URSSAF ceiling). 
 
 
-### Limitations
+### *Limitations*
 
 There is a cap on certain exemptions with a choice :
 
 - An overall cap at 50% of the total remuneration: impatriation bonus + part of the remuneration for activities carried out abroad
 - A cap on compensation for activities carried out abroad at 20% of total compensation
 
-### Duration 
+### *Duration* 
 
 The exemptions last until the end of the eighth calendar year since the 2017 Finance Act (fifth year for the previous period). An employee can therefore benefit from them for 9 years if he takes up his duties on January 1st of the year. The plan ends automatically if the employee leaves the company before the end of the term but not if he changes functions. <br/>
 <br/>
@@ -141,30 +226,188 @@ The employee may also benefit from the reimbursement of his professional expense
 Employees and managers called from abroad to take up employment with the International Chamber of Commerce in France after 2011 are not subject to income tax on the salaries and wages paid to them in this capacity for five years, provided they have not been tax domiciled in France for the last five years.
 
 They cannot benefit from article 155B of the French General Tax Code. 
+<br>
+<br>
 
-# Finland
+# **Finland**
 
-## Researchers 
+## *Researchers* 
 
-Some countries benefit from a special agreement with Finland that allows their researchers not to pay income tax on Finnish territory even if their stay lasts more than 6 months and up to two years. 
+Some countries (France, United Kingdom, Egypt, Morocco, Korea, Japan) benefit from a special agreement with Finland that allows their researchers not to pay income tax on Finnish territory even if their stay lasts more than 6 months and up to two years (5 years for South Korea). The benefit disappears if the researcher stays longer than two years, with the exception of France (the regime is retained for the first two years). 
 
 These conditions are summed up by the finnish special authority [VeroSkatt](https://www.vero.fi/en/detailed-guidance/guidance/49113/taxation-of-employees-from-other-countries5/)
 
-# Luxemburg <br>
+## Key workers system
 
-# Netherlands <br>
+The regime for so-called "key" workers is governed by [Act No. 1551/1995](https://www.vero.fi/en/detailed-guidance/guidance/49113/taxation-of-employees-from-other-countries5/). It provides that after six months, employees may continue to benefit from a preferential tax regime.
 
-# Poland <br>
+### *Conditions*
 
-# Spain <br>
+To do so, it is necessary to :
 
-# Sweden
+- have become resident at the time of the start of employment
+- receive a salary of at least 5800 euros per month
+- have a specific expertise
+- not being a Finnish citizen and not having been a resident within the last five years
+
+### *Exemptions*
+<br>
+<br>
+
+# **Italy**
+
+The preferential regime for expatriate workers is described in article 16 of the [Legislative Decree of 14/09/2015 n. 147.](https://def.finanze.it/DocTribFrontend/getArticoloDetailFromResultList.do?id={51205492-5764-4B5E-A123-D2DEF739A662}&codiceOrdinamento=200001600000000&idAttoNormativo={EB25E26B-57B4-4091-81DF-04B73E629525})
+
+### *Conditions*
+
+The conditions to take advantage of it are that :
+
+- the individual has not resided fiscally in Italy for the last two years and intends to reside there for at least two years.
+- the work activity is carried out mainly on Italian territory
+
+### *Exemptions*
+
+The exemption corresponds to a 70% rebate on taxable income (amount that rises to 90% when the individual chooses to settle in one of the southern regions: Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicily. 
+
+### *Duration*
+
+The individual can benefit from the plan for 4 fiscal years. The system can be renewed for another 5 years with a 50% rebate (70% for a tax residence in the South).
+<br>
+<br>
+
+# **Luxemburg** <br>
+
+The exemption regime for attracting qualified foreign workers is set out in the [Director of Contributions Circular.
+L.I.R. - n° 95/2 of May 21, 2013](https://impotsdirects.public.lu/dam-assets/fr/legislation/legi13/Circulaire_L_I_R__n___95-2_du_21_mai_2013.pdf)
+
+### *Conditions*
+
+Two categories of employees are eligible for tax benefits:
+
+- employees seconded by a foreign international company who must have at least 5 years of seniority in the group, must maintain a contractual link with the sending group and have a right of return.
+
+- foreign employees recruited by a Luxembourg company: the employee must have particular expertise.
+
+In addition, in both cases, the employee must:
+
+- becomes a tax resident in Luxembourg
+- has not been a tax resident in Luxembourg and has not lived less than 150 km from the border
+- receives at least 50,000 euros in annual salary
+- does not take the employment of a native person
+- puts its expertise at the service of the Luxembourg company in question
+
+### *Exemptions*
+
+Can be deducted from the impatriate's taxable income or be paid by the employer:
+
+- Expenses related to moving, accommodation, travel expenses in special circumstances or return to the country of origin (up to 30% of income or 50,000 euros - 80,000 euros if a spouse shares the accommodation).
+- fiscal equalization expenditures
+- expenses related to children's schooling
+- expenses related to the cost of living differential within the limit of the minimum between 8% of the monthly income and 1500 euros per month.
+
+### *Duration*
+
+The plan is applicable until the end of the fifth year following the year of arrival of the individual or earlier if any of the conditions cease to be met.
+<br>
+<br>
+
+# **Netherlands** <br>
+
+All provisions relating to the 30% rule are detailed by the [Dutch Tax Authority](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/internationaal/personeel/u_bent_niet_in_nederland_gevestigd_loonheffingen_inhouden/als_u_loonheffingen_gaat_inhouden/extraterritoriale_kosten_en_de_30procentregeling/inhoud_van_de_regeling/#:~:text=De%2030%25%2Dregeling%20houdt,'%20voor%20de%20extraterritoriale%20kosten.).
+
+### *Conditions*
+
+The 30% rule requires the individual to have special expertise. This expertise is assessed against an income requirement: 38347 euros per year (or 29149 euros if holder of a Dutch master's degree). 
+
+In addition, a requirement of scarcity of skills in the Dutch labor market may be required in some cases.
+
+In assessing the requirement for expertise and rarity, we then take into account the following 3 factors:
+
+- the level of education of the employee
+- the employee's experience relevant to the position
+- If an employee has held a similar position for more than 2.5 years
+- the relationship between the remuneration level of the position in the Netherlands and the remuneration level in the employee's home country.
+
+### *Exemptions*
+
+The 30% facility means that a maximum of 30% of the salary can be given to employees, including the tax-free allowance, without further proof for offshore costs. Instead, a maximum of 30/70 of the salary excluding reimbursement as untaxed reimbursement can be given.
+
+If the actual expenses reasonably incurred are greater than 30/70 of salary, actual untaxed expenses can be reimbursed. In this case, costs must be proven.
+
+The following non-taxed expenses can also be reimbursed:
+
+- moving expenses and temporary storage and domain transfer costs
+- the costs for an introductory visit of the employee to the company in the Netherlands
+- fees for applying for or converting a work permit
+tuition fees for an international school or for an international department of a regular school
+<br>
+<br>
+
+
+# **Poland** <br>
+
+Paragraph 9 of [article 22 of the Personal Income](https://www.lexlege.pl/ustawa-o-podatku-dochodowym-od-osob-fizycznych/art-22/) tax law governs exemptions that are not reserved for foreign workers but have the partial objective of attracting them. 
+
+### *Conditions*
+
+Income eligible for exemption must be received for the following activities :
+
+- creative activity in the field of architecture, interior design, landscape architecture, building engineering, urban planning, literature, fine arts, industrial design, music, photography, audio and audiovisual creativity, computer programs, computer games, theater, costume design, scenography, stage design, choreography, artistic violin making, folk art and journalism
+
+- artistic activity in the field of theater, stage, dance and circus arts as well as in the field of conducting, singing and instrument studies
+
+- audio and audiovisual production;
+
+- journalistic activity;
+
+- museum activities in the field of exhibition, science, popularization, education and publishing;
+
+- conservation activities;
+
+- the dependent right referred to in art. 2 the development of someone else's work, to prepare someone else's work in the form of translation;
+
+- research and development, scientific, scientific and didactic, research and teaching activities as well as didactic activities at the university.
+
+### *Exemptions*
+
+50% of income can be deducted from tax
+<br>
+<br>
+
+# **Spain** <br>
+
+The provisions relating to the Beckham Act are set out in the [Royal Decree](https://boe.es/buscar/act.php?id=BOE-A-2004-4527) approving the reform of the Non-Resident Tax Act.
+
+### *Conditions*
+
+The conditions to be met to take advantage of this legislation are:
+
+- to come to Spain to take a job 
+- first-time resident in Spain
+- You must work for a Spanish company or a subsidiary of a foreign group permanently established in Spain.
+
+However, this presupposes verifying that double taxation treaties exist with the countries concerned.
+
+### *Exemptions*
+
+Provided that the necessary conditions are met by the worker, he or she may benefit:
+
+- a flat-tax rate of 24% on Spanish income below 600,000 euros and a rate of 45% above this amount 
+- a single rate of 35% on capital income
+
+### *Duration*
+
+One can benefit from the plan for 5 full fiscal years in addition to the fiscal year of installation (for a maximum of 6 years). 
+<br>
+<br>
+
+# **Sweden**
 
 ## Expert tax
 
 The provisions are set out in the [Income Tax Act 1999](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229) in Chapter 11, Sections 22 and 23.
 
-### Conditions
+### *Conditions*
 
 In order to benefit from expert tax you should either:
 
@@ -173,16 +416,20 @@ In order to benefit from expert tax you should either:
 
 In addition, you must not have been a resident of Sweden for the previous 5 years. The employment must be temporary (less than 5 years). 
 
-### Exemptions
+### *Exemptions*
 
 If you are eligible to the expert tax, you can remove from your taxable income:
 
 - 25% of income earned in Sweden
 - travel and installation costs in Sweden
 
-### Duration
+### *Duration*
 
 Until 2021, the measure would run for 3 years. The last amendment extended it to 5 years.
+<br>
+<br>
 
-# Switzerland <br>
+# **Switzerland** <br>
+
+
 

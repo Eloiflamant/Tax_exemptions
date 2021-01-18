@@ -1,0 +1,194 @@
+---
+title: "Fiscal exemptions for high-skilled foreign workers"
+output:
+  html_document:
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 1
+    #code_folding: hide
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+```
+
+Several tax exemptions have been set up in order to attract high-skilled workers. These exemptions are often temporary measures, subject to income levels and eligibility requirements. Specific jobs are sometimes targeted, especially knowledge-based activities (profesors, researchers...). 
+
+There has been a clear acceleration of this type of measurement in recent years. Countries that have been rather reluctant to implement them so far (France, for example) have been forced to do so.
+<br>
+<br>
+
+# **Cyprus**
+
+## Overseas pensions
+
+The regime of overseas pensions is described by the [Ministry of Finances](https://www.mof.gov.cy/mof/tax/taxdep.nsf/0/32026fc71b1f41dec2258560002f97d3?OpenDocument&ExpandSection=3%2C1%2C2%2C4). 
+
+### *Conditions*
+
+General conditions on tax residency.
+
+### *Exemptions* 
+
+Overseas pensions are exempt from tax up to €3.420 and taxed at 5% thereafter.
+
+### *Duration*
+
+Regime is available during ten years.
+
+# **Greece** <br>
+
+## Lump-sum tax
+
+### *Conditions*
+
+The condition to benefit from it: 
+
+- The individual was not a Greek tax resident for the seven out of eight years
+- make an investment of at least 500,000 euros in the Greek economy
+
+### *Exemptions* 
+
+An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:
+
+- possibility to pay a lump-sum income tax of 100,000 euros (+20,000 per family member)
+- foreign-source income is not subject to reporting 
+
+### *Duration*
+
+One can benefit from this scheme for 15 years. 
+
+## Foreign pensioners
+
+A draft of new legislation on foreign taxpayers has been submitted to the public through the public consultation on the draft law ["Tax interventions to strengthen the Greek development process in the Greek legislation of (EU) Directives (EU) 2017/1852, (EU) 2018/822, (EU) 2016/1164, (EU) 2018/1910 and (EU) 2019/475 and other provisions"](https://www.taxheaven.gr/news/49732/neo-nomosxedio-se-dhmosia-diaboyleysh-me-diataxeis-gia-thn-paroxh-forologikwn-kinhtrwn-kai-stoxeymenwn-forologikwn-apallagwn-kai-gia-thn-exwdikastikh-epilysh-twn-ekkremwn-forologikwn-diaforwn).
+
+### *Conditions* 
+
+The condition to benefit from it are:
+
+- receive foreign pension income
+- not have been a resident in 5 of the last 6 years prior to establishing residence
+- come from a country that has a tax treaty in this field with Greece
+
+### *Exemptions*
+
+The person then benefits from a lump-sum tax of 7% on pension income of a foreign nature, income that can no longer be taxed. In particular, this exempts the taxpayer from the special solidarity contribution on this income.
+
+## Golden visa 
+
+The golden visa regime is an explicit regime of the Greek legislation provided for in [Article 20 of Law 4251/2014](https://www.taxheaven.gr/law/4251/2014): Other reasons for issuing a residence permit. 
+
+### *Conditions*
+
+In order to be eligible for the golden visa program, you should make a sufficient investment in Greek territory or economy. This investment can be : 
+
+- An investment in real estate property with a minimum value of EUR 250,000, plus the applicable taxes
+- A 10-year lease agreement for hotel accommodation or furnished tourist residences in tourist accommodation complexes
+- A 10-year time-sharing agreement for hotel accommodation
+- A capital contribution with a minimum value of EUR 400,000 to a company that has its registered office or establishment in Greece 
+- A capital contribution with a minimum value of EUR 400,000 to a real estate investment company in Greece
+- A capital contribution with a minimum value of EUR 400,000 to a closed-end investment company
+- purchase some bonds or shares for an amount of EUR 400,000 at some conditions
+
+### *Exemptions*
+
+The main advantage obtained is the issuance of a residence permit giving, among other things, access to free movement within the Schengen area.
+
+### *Duration*
+
+One can benefit of the golden visa for 5 years renewable 
+
+# **Italy** <br>
+
+## Rich taxpayers
+
+### *Conditions*
+
+The condition to benefit from it is to have resided elsewhere for 9 of the last 10 years.
+
+### *Exemptions*
+
+- The possibility is given to the foreign individual to benefit from a flat rate on his income of 100,000 euros regardless of the amount of his income (+25000 euros per member of the family)
+- Remittance of foreign income in Italy without paying additional tax
+- Exemption from tax monitoring obligations
+
+### *Duration*
+
+One can benefit from this scheme for 15 years. 
+
+## Foreign pensioners
+
+Italy has very recently adopted an attractive tax system for foreign pensioners under article 24-ter of the [Testo Unico delle Imposte sui Redditi 2020](https://www.altalex.com/documents/codici-altalex/2014/12/10/tuir-testo-unico-delle-imposte-sui-redditi)
+
+### *Conditions*
+
+Conditions to be met are:
+
+- to settle in a municipality of less than 20,000 inhabitants in one of the southern regions (Sicily, Calabria, Sardinia, Campania, Basilicata, Abruzzo, Molise and Puglia).
+- Have not been a resident for at least the last 5 years.
+- come from an EU member country. 
+
+### *Exemptions*
+
+This provision makes it possible, in particular, not to be taxed on income from foreign sources at the standard rate but to pay only a flat-rate tax of 7%. 
+
+Note: the scheme in question is only beneficial if there is no bilateral tax treaty providing for the taxation of pensions in the country of origin.
+
+### Duration
+
+One can benefit from this scheme for 6 years. 
+
+# **Portugal**
+
+The system for affluent taxpayers has recently been reformed. The [Lei do EO of March 2020](https://dre.pt/application/conteudo/130893436) amended the [decree law of 2009](https://dre.pt/application/conteudo/490420) in a slightly less favourable direction for non-usual residents.
+
+### *Conditions*
+
+In order to benefit from the regime applicable to individuals who are not habitually resident, a person must :
+
+* become a resident, which implies:
+    * to spend at least 183 days in Portugal
+    * to spend less than 183 days but to own a substantial property
+    
+* not having been a resident for the past five years
+
+### *Exemptions*
+
+An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:
+
+- Remuneration derived from high value-added activities is subject to taxation at a single rate of 20%. The list of these activities is determined by the [decree of 2010](https://dre.pt/home/-/dre/460194/details/maximized). It includes in particular management positions, teaching activities, skilled workers...
+
+- Most income from foreign sources is tax-exempt for 10 years.
+
+- Pensions for non-usual residents, hitherto untaxed, cease to enjoy full exemption but are taxed at the rate of 10%.
+
+
+
+# **Switzerland** <br>
+
+Taxation on an expenditure basis is provided for in Article 14 of the [Federal Direct Tax Act](https://www.admin.ch/opc/fr/classified-compilation/19900329/202101010000/642.11.pdf).
+
+### *Conditions*
+
+The conditions to be able to subscribe to this plan are as follows :ù
+
+- not to have Swiss nationality
+- be subject to tax for the first time or after 10 years of absence
+- not engage in any gainful activity in Switzerland
+
+### *Exemptions*
+
+If the above conditions are met, the taxpayer may be taxed according to his or her expenditure. On the other hand, it is necessary that the amount of the tax is higher than the higher of the following amounts:
+
+- 400,000 francs
+- 7 times the annual rent or rental value for heads of household or 3 times the annual boarding rate for others
+- the sum of Swiss income from real estate and movable property, copyrights or patents exploited in Switzerland, pensions and annuities from Swiss sources or income from foreign sources requiring special tax relief.
+
+Note: the system of taxation by expenditure is not applied in all cantons and is tending to disappear more and more.
+
+
+
+
+
