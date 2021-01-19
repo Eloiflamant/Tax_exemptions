@@ -1,5 +1,5 @@
 ---
-title: "Fiscal exemptions for high-skilled foreign workers"
+title: "**Fiscal exemptions for high-skilled foreign workers**"
 output:
   html_document:
     toc: true
@@ -14,13 +14,38 @@ output:
 knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
 ```
 
-Several tax exemptions have been set up in order to attract high-skilled workers. These exemptions are often temporary measures, subject to income levels and eligibility requirements. Specific jobs are sometimes targeted, especially knowledge-based activities (profesors, researchers...). 
+Tax measures for high net worth individuals have also increased significantly in recent years, with two main areas of development:
 
-There has been a clear acceleration of this type of measurement in recent years. Countries that have been rather reluctant to implement them so far (France, for example) have been forced to do so.
+- the introduction of flat-rate income taxes instead of a progressive system for those who move their tax residence.
+
+- a tax system favorable to retirees so as to encourage their settlement in the country.
 <br>
 <br>
 
 # **Cyprus**
+
+## Generic exemptions
+
+### *Conditions*
+
+General conditions of fiscal residence, based on a day rule, either:
+
+- an individual is physically present in the country for more than 183 days. 
+- an individual is not physically present in one country for more than 183 days and :
+   * is present in Cyprus for more than 60 days
+   * exercise an employment or have a business in Cyprus
+   * maintains a permanent home in Cyprus 
+
+### *Exemptions*
+
+Two main generic exemptions are granted to new fiscal residents:
+
+- Exemption from Special Defence Contribution (SDC), an contribution defined by the law 117 of 2002
+- Exemption on all interest and dividend income
+
+### *Duration*
+
+Until residence, the exemption is available during 17 out of 20 years. 
 
 ## Overseas pensions
 
@@ -37,10 +62,13 @@ Overseas pensions are exempt from tax up to €3.420 and taxed at 5% thereafter.
 ### *Duration*
 
 Regime is available during ten years.
+<br>
+<br>
+
 
 # **Greece** <br>
 
-## Lump-sum tax
+## <span style="color:blue"> Lump-sum tax </span>
 
 ### *Conditions*
 
@@ -60,7 +88,7 @@ An individual eligible for the tax system for non-usual residents can thus benef
 
 One can benefit from this scheme for 15 years. 
 
-## Foreign pensioners
+## <span style="color:blue"> Foreign pensioners </span>
 
 A draft of new legislation on foreign taxpayers has been submitted to the public through the public consultation on the draft law ["Tax interventions to strengthen the Greek development process in the Greek legislation of (EU) Directives (EU) 2017/1852, (EU) 2018/822, (EU) 2016/1164, (EU) 2018/1910 and (EU) 2019/475 and other provisions"](https://www.taxheaven.gr/news/49732/neo-nomosxedio-se-dhmosia-diaboyleysh-me-diataxeis-gia-thn-paroxh-forologikwn-kinhtrwn-kai-stoxeymenwn-forologikwn-apallagwn-kai-gia-thn-exwdikastikh-epilysh-twn-ekkremwn-forologikwn-diaforwn).
 
@@ -76,7 +104,7 @@ The condition to benefit from it are:
 
 The person then benefits from a lump-sum tax of 7% on pension income of a foreign nature, income that can no longer be taxed. In particular, this exempts the taxpayer from the special solidarity contribution on this income.
 
-## Golden visa 
+## <span style="color:blue"> Golden visa </span>
 
 The golden visa regime is an explicit regime of the Greek legislation provided for in [Article 20 of Law 4251/2014](https://www.taxheaven.gr/law/4251/2014): Other reasons for issuing a residence permit. 
 
@@ -98,11 +126,14 @@ The main advantage obtained is the issuance of a residence permit giving, among 
 
 ### *Duration*
 
-One can benefit of the golden visa for 5 years renewable 
+One can benefit of the golden visa for 5 years renewable
+<br>
+<br>
+
 
 # **Italy** <br>
 
-## Rich taxpayers
+## <span style="color:blue"> Rich taxpayers </span>
 
 ### *Conditions*
 
@@ -118,7 +149,7 @@ The condition to benefit from it is to have resided elsewhere for 9 of the last 
 
 One can benefit from this scheme for 15 years. 
 
-## Foreign pensioners
+## <span style="color:blue"> Foreign pensioners </span>
 
 Italy has very recently adopted an attractive tax system for foreign pensioners under article 24-ter of the [Testo Unico delle Imposte sui Redditi 2020](https://www.altalex.com/documents/codici-altalex/2014/12/10/tuir-testo-unico-delle-imposte-sui-redditi)
 
@@ -139,6 +170,9 @@ Note: the scheme in question is only beneficial if there is no bilateral tax tre
 ### Duration
 
 One can benefit from this scheme for 6 years. 
+<br>
+<br>
+
 
 # **Portugal**
 
@@ -163,7 +197,8 @@ An individual eligible for the tax system for non-usual residents can thus benef
 - Most income from foreign sources is tax-exempt for 10 years.
 
 - Pensions for non-usual residents, hitherto untaxed, cease to enjoy full exemption but are taxed at the rate of 10%.
-
+<br>
+<br>
 
 
 # **Switzerland** <br>

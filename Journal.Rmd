@@ -1,5 +1,5 @@
 ---
-title: "Fiscal exemptions for high-skilled foreign workers"
+title: "**Fiscal exemptions for high-skilled foreign workers**"
 output:
   html_document:
     toc: true
@@ -79,7 +79,7 @@ The immigration allowance is granted for five years from the date of immigration
 The special Belgian tax regime is governed by the [Circulaire n° Ci.RH.624/325.294 de 1983](https://lex.be/fr/doc/be/fisconet-fiscal-discipline/circulaire-n-cirh624325294-dd-08081983-8-aout-1983-befp_19830808558b4842_fr).
 <br>
 
-## <span style="color:blue"> Exemptions </span>
+## <span style="color:blue"> Generic foreign workers </span>
 
 ### *Eligibility conditions*
 
@@ -130,6 +130,27 @@ assistant and post-doctoral researchers.
 <br>
 
 # **Cyprus** <br>
+
+### *Conditions*
+
+Conditions to be met to take advantage of this legislation are:
+
+- not being resident prior to the employment and become a resident afterwards and not tax residents three years on five before the employement and the last year.
+- having an income of at least 100,000 euros (only for 50% exemption rule)
+
+### *Exemptions*
+
+Two types of income taxable exemptions:
+
+- 50% if the remuneration is at least 100,000 euros
+- minimum between 20% of the income and 8,550 euros. This was applied until 2020.
+
+### *Duration*
+
+The regime is available during 10 years.
+<br>
+<br>
+
 
 # **Denmark** <br>
 
@@ -231,13 +252,13 @@ They cannot benefit from article 155B of the French General Tax Code.
 
 # **Finland**
 
-## *Researchers* 
+## <span style="color:blue"> Researchers </span> <br>
 
 Some countries (France, United Kingdom, Egypt, Morocco, Korea, Japan) benefit from a special agreement with Finland that allows their researchers not to pay income tax on Finnish territory even if their stay lasts more than 6 months and up to two years (5 years for South Korea). The benefit disappears if the researcher stays longer than two years, with the exception of France (the regime is retained for the first two years). 
 
 These conditions are summed up by the finnish special authority [VeroSkatt](https://www.vero.fi/en/detailed-guidance/guidance/49113/taxation-of-employees-from-other-countries5/)
 
-## Key workers system
+## <span style="color:blue"> Key workers system </span> <br>
 
 The regime for so-called "key" workers is governed by [Act No. 1551/1995](https://www.vero.fi/en/detailed-guidance/guidance/49113/taxation-of-employees-from-other-countries5/). It provides that after six months, employees may continue to benefit from a preferential tax regime.
 
@@ -251,6 +272,14 @@ To do so, it is necessary to :
 - not being a Finnish citizen and not having been a resident within the last five years
 
 ### *Exemptions*
+
+If the worker is in Finland for more than 6 months, the income is taxed by the Finish government at a rate of 35%. Moreover, a deduction can be applied by the firm on the taxable income (510 euros per month and 17 euros per day for period shorter than a month).
+
+If the worker is in Finland for less than 6 month, these exemptions can apply even though conditions described above are not met.
+
+### *Duration*
+
+/The individual can benefit from the plan for 4 fiscal years./
 <br>
 <br>
 
@@ -267,7 +296,7 @@ The conditions to take advantage of it are that :
 
 ### *Exemptions*
 
-The exemption corresponds to a 70% rebate on taxable income (amount that rises to 90% when the individual chooses to settle in one of the southern regions: Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicily. 
+The exemption corresponds to a 70% rebate on taxable income (amount that rises to 90% when the individual chooses to settle in one of the southern regions: Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicily). 
 
 ### *Duration*
 
@@ -403,7 +432,7 @@ One can benefit from the plan for 5 full fiscal years in addition to the fiscal 
 
 # **Sweden**
 
-## Expert tax
+## <span style="color:blue"> Expert tax </span> <br>
 
 The provisions are set out in the [Income Tax Act 1999](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229) in Chapter 11, Sections 22 and 23.
 
@@ -430,6 +459,48 @@ Until 2021, the measure would run for 3 years. The last amendment extended it to
 <br>
 
 # **Switzerland** <br>
+
+Expatriate related expenses that can be deducted by foreign workers can be described in the [FDF Ordinance
+on the Deduction of Special Professional Expenses of 2000](https://www.admin.ch/opc/en/classified-compilation/20001419/202101010000/642.118.3.pdf) amended in 2016. 
+
+### Conditions 
+
+Conditions to be eligible to expatriate deductions :
+
+- being a management employee or a specialist and an expatriate
+- being temporary present in Switzerland (period limited to a maximum of five years' employment). If the employee becomes a permanent resident, the regime ceases immediately.
+
+### Exemptions
+
+Management employees and specialists with specific professional qualifications that are posted temporarily to Switzerland by their foreign employer may deduct special professional expenses in addition to professional expenses.
+
+These expenses are, if the expatriate is living abroad :
+
+- costs of travelling between the residence and Switzerland 
+- reasonable living expenses in Switzerland
+
+If the expatriate is living in Switzerland :
+
+- the necessary costs of moving to Switzerland and back to their previous foreign country of residence
+- reasonable living expenses in Switzerland where they retain a dwelling
+abroad for permanent personal use
+- tuition fees at foreign language private schools for their minor children
+whose first language is a foreign language, where public schools do not offer
+tuition in the language concerned.
+
+Some are non-deductible costs :
+
+-  costs of the permanent dwelling abroad
+- expenditure for furnishing the dwelling and for service charges on dwellings
+in Switzerland
+- additional expenditure due to the higher cost of living or the higher tax burden in Switzerland
+- the costs of obtaining legal or tax advice
+
+If an expatriate is eligible to a deduction of reasonable living expenses, he can choose a deduction of CHF1500 instead.
+
+### Duration
+
+As explained above, the regime is possible until the end of the temporary mission with a maximum of 5 years. 
 
 
 
