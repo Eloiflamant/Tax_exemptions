@@ -1,5 +1,5 @@
 ---
-title: "**Fiscal exemptions for high-skilled foreign workers**"
+title: "**Fiscal exemptions for rich taxpayers**"
 output:
   html_document:
     toc: true
@@ -24,9 +24,9 @@ Tax measures for high net worth individuals have also increased significantly in
 
 # **Cyprus**
 
-## Generic exemptions
+## <span style="color:blue"> Generic exemptions </span>
 
-### *Conditions*
+### *Eligibility conditions*
 
 General conditions of fiscal residence, based on a day rule, either:
 
@@ -36,7 +36,7 @@ General conditions of fiscal residence, based on a day rule, either:
    * exercise an employment or have a business in Cyprus
    * maintains a permanent home in Cyprus 
 
-### *Exemptions*
+### *Tax exemptions*
 
 Two main generic exemptions are granted to new fiscal residents:
 
@@ -47,15 +47,15 @@ Two main generic exemptions are granted to new fiscal residents:
 
 Until residence, the exemption is available during 17 out of 20 years. 
 
-## Overseas pensions
+## <span style="color:blue"> Overseas pensions </span>
 
 The regime of overseas pensions is described by the [Ministry of Finances](https://www.mof.gov.cy/mof/tax/taxdep.nsf/0/32026fc71b1f41dec2258560002f97d3?OpenDocument&ExpandSection=3%2C1%2C2%2C4). 
 
-### *Conditions*
+### *Eligibility conditions*
 
 General conditions on tax residency.
 
-### *Exemptions* 
+### *Tax exemptions* 
 
 Overseas pensions are exempt from tax up to €3.420 and taxed at 5% thereafter.
 
@@ -70,14 +70,14 @@ Regime is available during ten years.
 
 ## <span style="color:blue"> Lump-sum tax </span>
 
-### *Conditions*
+### *Eligibility conditions*
 
 The condition to benefit from it: 
 
 - The individual was not a Greek tax resident for the seven out of eight years
 - make an investment of at least 500,000 euros in the Greek economy
 
-### *Exemptions* 
+### *Tax exemptions* 
 
 An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:
 
@@ -92,7 +92,7 @@ One can benefit from this scheme for 15 years.
 
 A draft of new legislation on foreign taxpayers has been submitted to the public through the public consultation on the draft law ["Tax interventions to strengthen the Greek development process in the Greek legislation of (EU) Directives (EU) 2017/1852, (EU) 2018/822, (EU) 2016/1164, (EU) 2018/1910 and (EU) 2019/475 and other provisions"](https://www.taxheaven.gr/news/49732/neo-nomosxedio-se-dhmosia-diaboyleysh-me-diataxeis-gia-thn-paroxh-forologikwn-kinhtrwn-kai-stoxeymenwn-forologikwn-apallagwn-kai-gia-thn-exwdikastikh-epilysh-twn-ekkremwn-forologikwn-diaforwn).
 
-### *Conditions* 
+### *Eligibility conditions* 
 
 The condition to benefit from it are:
 
@@ -100,7 +100,7 @@ The condition to benefit from it are:
 - not have been a resident in 5 of the last 6 years prior to establishing residence
 - come from a country that has a tax treaty in this field with Greece
 
-### *Exemptions*
+### *Tax exemptions*
 
 The person then benefits from a lump-sum tax of 7% on pension income of a foreign nature, income that can no longer be taxed. In particular, this exempts the taxpayer from the special solidarity contribution on this income.
 
@@ -108,7 +108,7 @@ The person then benefits from a lump-sum tax of 7% on pension income of a foreig
 
 The golden visa regime is an explicit regime of the Greek legislation provided for in [Article 20 of Law 4251/2014](https://www.taxheaven.gr/law/4251/2014): Other reasons for issuing a residence permit. 
 
-### *Conditions*
+### *Eligibility conditions*
 
 In order to be eligible for the golden visa program, you should make a sufficient investment in Greek territory or economy. This investment can be : 
 
@@ -120,7 +120,7 @@ In order to be eligible for the golden visa program, you should make a sufficien
 - A capital contribution with a minimum value of EUR 400,000 to a closed-end investment company
 - purchase some bonds or shares for an amount of EUR 400,000 at some conditions
 
-### *Exemptions*
+### *Tax exemptions*
 
 The main advantage obtained is the issuance of a residence permit giving, among other things, access to free movement within the Schengen area.
 
@@ -135,11 +135,11 @@ One can benefit of the golden visa for 5 years renewable
 
 ## <span style="color:blue"> Rich taxpayers </span>
 
-### *Conditions*
+### *Eligibility conditions*
 
 The condition to benefit from it is to have resided elsewhere for 9 of the last 10 years.
 
-### *Exemptions*
+### *Tax exemptions*
 
 - The possibility is given to the foreign individual to benefit from a flat rate on his income of 100,000 euros regardless of the amount of his income (+25000 euros per member of the family)
 - Remittance of foreign income in Italy without paying additional tax
@@ -153,7 +153,7 @@ One can benefit from this scheme for 15 years.
 
 Italy has very recently adopted an attractive tax system for foreign pensioners under article 24-ter of the [Testo Unico delle Imposte sui Redditi 2020](https://www.altalex.com/documents/codici-altalex/2014/12/10/tuir-testo-unico-delle-imposte-sui-redditi)
 
-### *Conditions*
+### *Eligibility conditions*
 
 Conditions to be met are:
 
@@ -161,7 +161,7 @@ Conditions to be met are:
 - Have not been a resident for at least the last 5 years.
 - come from an EU member country. 
 
-### *Exemptions*
+### *Tax exemptions*
 
 This provision makes it possible, in particular, not to be taxed on income from foreign sources at the standard rate but to pay only a flat-rate tax of 7%. 
 
@@ -178,7 +178,7 @@ One can benefit from this scheme for 6 years.
 
 The system for affluent taxpayers has recently been reformed. The [Lei do EO of March 2020](https://dre.pt/application/conteudo/130893436) amended the [decree law of 2009](https://dre.pt/application/conteudo/490420) in a slightly less favourable direction for non-usual residents.
 
-### *Conditions*
+### *Eligibility conditions*
 
 In order to benefit from the regime applicable to individuals who are not habitually resident, a person must :
 
@@ -188,7 +188,7 @@ In order to benefit from the regime applicable to individuals who are not habitu
     
 * not having been a resident for the past five years
 
-### *Exemptions*
+### *Tax exemptions*
 
 An individual eligible for the tax system for non-usual residents can thus benefit from a certain number of exemptions:
 
@@ -205,7 +205,7 @@ An individual eligible for the tax system for non-usual residents can thus benef
 
 Taxation on an expenditure basis is provided for in Article 14 of the [Federal Direct Tax Act](https://www.admin.ch/opc/fr/classified-compilation/19900329/202101010000/642.11.pdf).
 
-### *Conditions*
+### *Eligibility conditions*
 
 The conditions to be able to subscribe to this plan are as follows :ù
 
@@ -213,7 +213,7 @@ The conditions to be able to subscribe to this plan are as follows :ù
 - be subject to tax for the first time or after 10 years of absence
 - not engage in any gainful activity in Switzerland
 
-### *Exemptions*
+### *Tax exemptions*
 
 If the above conditions are met, the taxpayer may be taxed according to his or her expenditure. On the other hand, it is necessary that the amount of the tax is higher than the higher of the following amounts:
 

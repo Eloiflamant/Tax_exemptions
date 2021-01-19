@@ -25,11 +25,12 @@ There has been a clear acceleration of this type of measurement in recent years.
 The [federal law of September 20, 2016](https://www.ris.bka.gv.at/Dokumente/BgblAuth/BGBLA_2016_II_261/BGBLA_2016_II_261.html) provides special exemptions for researchers and academics, artists and athletes. 
 <br>
 
-### *Conditions*
+### *Eligibility conditions*
 
 **Scientists**
 
 For scientific activities, the conditions to be fulfilled are :
+
 - the activity is scientific or mainly scientific
 - this activity is of public interest for Austria
 - the realization of this public interest would be more difficult without this recruitment
@@ -42,10 +43,10 @@ Or :
 
 **Artists**
 
-For artists, it is necessary to :
+For artists, the conditions to be fulfilled are :
 
 - the activity carried out must be artistic
-- that this activity is of public interest to Austria
+- this activity is of public interest to Austria
 - the realization of this public interest would be more difficult without this recruitment
 - the individual is an artist of exceptional importance
 
@@ -55,7 +56,7 @@ For athletes, it is necessary that :
 
 - the athlete is a high level athlete
 - The promotion of sports activity is largely in the public interest.
-- the individual is an artist of exceptional importance
+- the individual is an athlete of exceptional importance
 - The athlete appears officially as Austria's representative at international competitions.
 - Sports are promoted immediately 
 <br>
@@ -83,7 +84,7 @@ The special Belgian tax regime is governed by the [Circulaire n° Ci.RH.624/325.
 
 ### *Eligibility conditions*
 
-It applies to executives of foreign nationality, with positions requiring specific skills and responsibilities. In addition, they must be in one of the following three cases:
+It applies to executives of foreign nationality, with positions requiring specific skills and responsibilities. In addition, they must be in one of the following cases:
 
 - Being temporarily seconded by foreign companies
 - Being temporarily seconded by a large international group
@@ -108,11 +109,11 @@ The temporary nature of the activity must be proven, in particular by :
 
 Foreign executives residing for tax purposes in Belgium can deduct from their taxable income :
 
-* expenses reimbursable by the employer and which constitute additional expenses related to the installation in Belgium, including :
+- expenses reimbursable by the employer and which constitute additional expenses related to the installation in Belgium, including :
     * non-repetitive expenses and charges resulting from the installation in Belgium
     * repetitive expenses and charges: tax equalization, cost of living variance, annual travel expenses etc.
     
-* remuneration relating to activities carried out abroad: the executive is supposed to be remunerated in the same way in Belgium and abroad. The calculation of the remuneration earned in Belgium is therefore based on the pro rata of the days worked on Belgian territory.
+- remuneration relating to activities carried out abroad: the executive is supposed to be remunerated in the same way in Belgium and abroad. The calculation of the remuneration earned in Belgium is therefore based on the pro rata of the days worked on Belgian territory.
 
 In case of travel, the day of departure is served in Belgium but not the day of return.
 <br>
@@ -131,14 +132,14 @@ assistant and post-doctoral researchers.
 
 # **Cyprus** <br>
 
-### *Conditions*
+### *Eligibility Conditions*
 
 Conditions to be met to take advantage of this legislation are:
 
 - not being resident prior to the employment and become a resident afterwards and not tax residents three years on five before the employement and the last year.
 - having an income of at least 100,000 euros (only for 50% exemption rule)
 
-### *Exemptions*
+### *Tax exemptions*
 
 Two types of income taxable exemptions:
 
@@ -156,7 +157,7 @@ The regime is available during 10 years.
 
 The tax exemption schemes are detailed on the website of the [Danish tax authorities](https://skat.dk/skat.aspx?oid=2244911). 
 
-### *Conditions*
+### *Eligibility conditions*
 
 The conditions to be met to take advantage of this legislation are:
 
@@ -166,7 +167,7 @@ The conditions to be met to take advantage of this legislation are:
 - in 2021, the average monthly salary must be at least DKK 69,600
 - if the employee is a researcher :  the qualifications of the researcher must be approved by a public research institution or the Independent Research Fund Denmark and the researcher must engage in research.
 
-### *Exemptions*
+### *Tax exemptions*
 
 Flat-tax at 32.84\% rate on salary, bonuses, company car, free phone and health care insurances (divided between a 27% flat-tax rate and a 8% AM-tax).
 
@@ -180,7 +181,7 @@ One can benefit from this scheme for 7 years.
 
 ## <span style="color:blue"> The regime of impatriate workers </span> <br>
 
-### *Exemptions* <br>
+### *Tax exemptions* <br>
 
 The impatriate regime provides for income tax exemptions for persons domiciled for tax purposes outside France during the 5 calendar years preceding their employment in a company established in France (intra-group mobility or external recruitment). Exemptions are provided for in [Article 155B of the CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037985788/)
 
@@ -226,18 +227,22 @@ The exemptions last until the end of the eighth calendar year since the 2017 Fin
 
 The terms and conditions for the exemption of HQ and logistics center employees are provided for in the [Bulletin officiel des impôts](https://bofip.impots.gouv.fr/bofip/5665-PGP.html/identifiant=BOI-RSA-GEO-50-20170621). 
 
+### Eligibility conditions
+
+Conditions to be met are :
+
+- the employee must not have been domiciled for tax purposes in France during the five calendar years prior to his or her arrival in France;
+
+- and the headquarters or logistics center must opt to subject these two allowances to a tax calculated at the standard corporate tax rate and related contributions in lieu of income tax on behalf of the employee.
+
+### Tax exemptions
+
 Both allowances are deductible from income tax :
 
 - Additional cost of housing in relation to the country of origin
 - Tax equalization
 
 Additional costs must be justified.
-
-Conditions:
-
-- the employee must not have been domiciled for tax purposes in France during the five calendar years prior to his or her arrival in France;
-
-- and the headquarters or logistics center must opt to subject these two allowances to a tax calculated at the standard corporate tax rate and related contributions in lieu of income tax on behalf of the employee.
 
 The employee may also benefit from the reimbursement of his professional expenses in the same manner as impatriates, as provided for in Article 81 of the CGI.<br/>
 <br/>
@@ -262,7 +267,7 @@ These conditions are summed up by the finnish special authority [VeroSkatt](http
 
 The regime for so-called "key" workers is governed by [Act No. 1551/1995](https://www.vero.fi/en/detailed-guidance/guidance/49113/taxation-of-employees-from-other-countries5/). It provides that after six months, employees may continue to benefit from a preferential tax regime.
 
-### *Conditions*
+### *Eligibility conditions*
 
 To do so, it is necessary to :
 
@@ -271,7 +276,7 @@ To do so, it is necessary to :
 - have a specific expertise
 - not being a Finnish citizen and not having been a resident within the last five years
 
-### *Exemptions*
+### *Tax exemptions*
 
 If the worker is in Finland for more than 6 months, the income is taxed by the Finish government at a rate of 35%. Moreover, a deduction can be applied by the firm on the taxable income (510 euros per month and 17 euros per day for period shorter than a month).
 
@@ -287,14 +292,14 @@ If the worker is in Finland for less than 6 month, these exemptions can apply ev
 
 The preferential regime for expatriate workers is described in article 16 of the [Legislative Decree of 14/09/2015 n. 147.](https://def.finanze.it/DocTribFrontend/getArticoloDetailFromResultList.do?id={51205492-5764-4B5E-A123-D2DEF739A662}&codiceOrdinamento=200001600000000&idAttoNormativo={EB25E26B-57B4-4091-81DF-04B73E629525})
 
-### *Conditions*
+### *Eligibility conditions*
 
 The conditions to take advantage of it are that :
 
 - the individual has not resided fiscally in Italy for the last two years and intends to reside there for at least two years.
 - the work activity is carried out mainly on Italian territory
 
-### *Exemptions*
+### *Tax exemptions*
 
 The exemption corresponds to a 70% rebate on taxable income (amount that rises to 90% when the individual chooses to settle in one of the southern regions: Abruzzo, Molise, Campania, Puglia, Basilicata, Calabria, Sardinia, Sicily). 
 
@@ -309,7 +314,7 @@ The individual can benefit from the plan for 4 fiscal years. The system can be r
 The exemption regime for attracting qualified foreign workers is set out in the [Director of Contributions Circular.
 L.I.R. - n° 95/2 of May 21, 2013](https://impotsdirects.public.lu/dam-assets/fr/legislation/legi13/Circulaire_L_I_R__n___95-2_du_21_mai_2013.pdf)
 
-### *Conditions*
+### *Eligibility conditions*
 
 Two categories of employees are eligible for tax benefits:
 
@@ -325,7 +330,7 @@ In addition, in both cases, the employee must:
 - does not take the employment of a native person
 - puts its expertise at the service of the Luxembourg company in question
 
-### *Exemptions*
+### *Tax exemptions*
 
 Can be deducted from the impatriate's taxable income or be paid by the employer:
 
@@ -344,7 +349,7 @@ The plan is applicable until the end of the fifth year following the year of arr
 
 All provisions relating to the 30% rule are detailed by the [Dutch Tax Authority](https://www.belastingdienst.nl/wps/wcm/connect/bldcontentnl/belastingdienst/zakelijk/internationaal/personeel/u_bent_niet_in_nederland_gevestigd_loonheffingen_inhouden/als_u_loonheffingen_gaat_inhouden/extraterritoriale_kosten_en_de_30procentregeling/inhoud_van_de_regeling/#:~:text=De%2030%25%2Dregeling%20houdt,'%20voor%20de%20extraterritoriale%20kosten.).
 
-### *Conditions*
+### *Eligibility conditions*
 
 The 30% rule requires the individual to have special expertise. This expertise is assessed against an income requirement: 38347 euros per year (or 29149 euros if holder of a Dutch master's degree). 
 
@@ -357,7 +362,7 @@ In assessing the requirement for expertise and rarity, we then take into account
 - If an employee has held a similar position for more than 2.5 years
 - the relationship between the remuneration level of the position in the Netherlands and the remuneration level in the employee's home country.
 
-### *Exemptions*
+### *Tax exemptions*
 
 The 30% facility means that a maximum of 30% of the salary can be given to employees, including the tax-free allowance, without further proof for offshore costs. Instead, a maximum of 30/70 of the salary excluding reimbursement as untaxed reimbursement can be given.
 
@@ -377,7 +382,7 @@ tuition fees for an international school or for an international department of a
 
 Paragraph 9 of [article 22 of the Personal Income](https://www.lexlege.pl/ustawa-o-podatku-dochodowym-od-osob-fizycznych/art-22/) tax law governs exemptions that are not reserved for foreign workers but have the partial objective of attracting them. 
 
-### *Conditions*
+### *Eligibility conditions*
 
 Income eligible for exemption must be received for the following activities :
 
@@ -397,7 +402,7 @@ Income eligible for exemption must be received for the following activities :
 
 - research and development, scientific, scientific and didactic, research and teaching activities as well as didactic activities at the university.
 
-### *Exemptions*
+### *Tax exemptions*
 
 50% of income can be deducted from tax
 <br>
@@ -407,7 +412,7 @@ Income eligible for exemption must be received for the following activities :
 
 The provisions relating to the Beckham Act are set out in the [Royal Decree](https://boe.es/buscar/act.php?id=BOE-A-2004-4527) approving the reform of the Non-Resident Tax Act.
 
-### *Conditions*
+### *Eligibility conditions*
 
 The conditions to be met to take advantage of this legislation are:
 
@@ -417,7 +422,7 @@ The conditions to be met to take advantage of this legislation are:
 
 However, this presupposes verifying that double taxation treaties exist with the countries concerned.
 
-### *Exemptions*
+### *Tax exemptions*
 
 Provided that the necessary conditions are met by the worker, he or she may benefit:
 
@@ -436,7 +441,7 @@ One can benefit from the plan for 5 full fiscal years in addition to the fiscal 
 
 The provisions are set out in the [Income Tax Act 1999](https://www.riksdagen.se/sv/dokument-lagar/dokument/svensk-forfattningssamling/inkomstskattelag-19991229_sfs-1999-1229) in Chapter 11, Sections 22 and 23.
 
-### *Conditions*
+### *Eligibility conditions*
 
 In order to benefit from expert tax you should either:
 
@@ -445,7 +450,7 @@ In order to benefit from expert tax you should either:
 
 In addition, you must not have been a resident of Sweden for the previous 5 years. The employment must be temporary (less than 5 years). 
 
-### *Exemptions*
+### *Tax exemptions*
 
 If you are eligible to the expert tax, you can remove from your taxable income:
 
@@ -463,14 +468,14 @@ Until 2021, the measure would run for 3 years. The last amendment extended it to
 Expatriate related expenses that can be deducted by foreign workers can be described in the [FDF Ordinance
 on the Deduction of Special Professional Expenses of 2000](https://www.admin.ch/opc/en/classified-compilation/20001419/202101010000/642.118.3.pdf) amended in 2016. 
 
-### Conditions 
+### Eligibility conditions 
 
 Conditions to be eligible to expatriate deductions :
 
 - being a management employee or a specialist and an expatriate
 - being temporary present in Switzerland (period limited to a maximum of five years' employment). If the employee becomes a permanent resident, the regime ceases immediately.
 
-### Exemptions
+### Tax exemptions
 
 Management employees and specialists with specific professional qualifications that are posted temporarily to Switzerland by their foreign employer may deduct special professional expenses in addition to professional expenses.
 

@@ -20,24 +20,28 @@ output: html_document
 # **Review of tax exemptions measures in European Union countries
 **
 
-The purpose of this review is to take stock of the tax exemptions proposed by European countries in their current tax legislation. It follows the [review](http://www.oecd.org/fr/ctp/taxation-and-employment-9789264120808-en.htm) developed by the OECD in 2011. 
+The purpose of this review is to make an inventory of the tax exemptions proposed by European countries in their current tax legislation. It follows the [review](http://www.oecd.org/fr/ctp/taxation-and-employment-9789264120808-en.htm) developed by the OECD in 2011. 
 
-A difference has been made between the exemptions set up specifically to attract skilled workers and those aimed at bringing in the wealthiest taxpayers, in order to benefit from their tax resources and their level of consumption. 
+A difference has been made between **the exemptions set up specifically to attract skilled workers** and **those aimed at bringing in the wealthiest taxpayers**, in order to benefit from their tax resources and their level of consumption. 
 
-Tax measures that are advantageous in nature but that do not discriminate against a foreign population were not mentioned. However, it should be remembered that a favourable tax system remains an important reason for transferring one's tax residence in Europe. 
+Tax measures that are advantageous in nature but that do not discriminate against a foreign population were not mentioned. However, it should be remembered that **a favorable tax system remains an important reason for transferring one's tax residence in Europe**. 
 
-The tax competition between the member countries of the European Union leads to a parrot's scale in taxation vis-à-vis the wealthiest taxpayers. This price war has two worrying consequences:
+The tax competition between the member countries of the European Union leads to a parrot's scale in taxation of the wealthiest taxpayers. This price war has two worrying consequences:
 
-- **a threat to the fiscal resources of the States and the European Union**. It is easy to suppose that the level of taxation determined is not the one that states would have chosen if their tax policies were independent of those of others, and that it would logically have been higher.
+- **a threat to the fiscal resources of the States and the European Union**. It is easy to assume that the level of taxation determined is not the one that states would have chosen if their tax policies were independent of those of others, and that it would logically have been higher.
 
-- **an exemption dynamic that is a factor of inequality**. In fact, tax exemptions are distributed in an anti-progressive way since they are often conditional on income or beneficial only from a certain level of wealth. Thus, tax competition only concerns the wealthy fraction of the European population, with the risk that, in the long run, the need for tax resources may lead States to compensate other, much more inelastic tax centers.
+- **an exemption dynamic that is a factor of inequality**. In fact, tax exemptions are distributed in an anti-progressive way since they are often conditional on income or beneficial only from a certain level of wealth. Thus, tax competition only concerns the wealthy fraction of the European population, with the risk that, in the long run, the need for tax resources may lead States to compensate by taxing much more inelastic households.
 
 
 </div>
 <div class="col-sm-6">
+<br/>
+<br/>
+<br/>
 
 <a href = "https://crumplab.github.io">
 ![](https://www.ifrap.org/sites/default/files/styles/visuel_700x372/public/articles/image_logo/ir.jpg?itok=MxlirMuI)<br/>
+<br/>
 <br/>
 <br/>
 

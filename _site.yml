@@ -8,6 +8,4 @@ navbar:
       href: Journal.html
     - text: "Rich Taxpayers"
       href: Taxpayers.html
-    - text: "Table"
-      href: Test.html
 output_dir: "docs"
